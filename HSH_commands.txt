@@ -1,5 +1,7 @@
 version
 help
 exit
+cdir
+cd
 
-And the secret one. you'll need to find it until version 1.5-alpha of HSH.
+And the secret one. you'll need to find it until version 1.5-alpha of HSH and we are on 0.2-alpha of HSH.
