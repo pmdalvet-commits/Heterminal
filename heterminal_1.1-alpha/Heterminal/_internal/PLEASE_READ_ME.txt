@@ -1,0 +1,1 @@
+Well, you have scrolled through here, right? if yes, it was just an accident putting this directory. i'm sorry. ill put an .gitignore
