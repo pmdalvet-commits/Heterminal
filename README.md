@@ -1,3 +1,3 @@
 # Heterminal
 
-v1.1-alpha in construction.....
+dat dood doo doo
